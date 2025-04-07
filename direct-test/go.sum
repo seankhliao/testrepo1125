@@ -1,0 +1,4 @@
+go.seankhliao.com/testrepo1125/direct-test-direct v0.0.0-20250407174926-d11f7d7fea4f h1:edk07KCOb+FnAeODuJ6kK6OtkBTu8VvugiQdupiXQf4=
+go.seankhliao.com/testrepo1125/direct-test-direct v0.0.0-20250407174926-d11f7d7fea4f/go.mod h1:DXQAhDmJIQZwm1JRto+iQOkuY0JvXw/3wSxHPeL6PUM=
+go.seankhliao.com/testrepo1125/direct-test-tool v0.0.0-20250407174926-d11f7d7fea4f h1:fdZGwehuuQWuNO+7wg3+CEqeWqZtbQPYpZJe8xSXtLc=
+go.seankhliao.com/testrepo1125/direct-test-tool v0.0.0-20250407174926-d11f7d7fea4f/go.mod h1:mNLAP/Obagi/5MqCfwQATFEQqbGRI7nZG9yUV8rOPhI=
