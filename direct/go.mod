@@ -7,6 +7,8 @@ tool go.seankhliao.com/testrepo1125/direct-tool
 require (
 	go.seankhliao.com/testrepo1125/direct-direct v0.0.0-20250407181245-dd1a0c81d506
 	go.seankhliao.com/testrepo1125/direct-test v0.0.0-20250407180242-f5f4205186dc
+	go.seankhliao.com/testrepo1125/other-direct v0.0.0-20250407181805-b0c912a2d3f4
+	go.seankhliao.com/testrepo1125/other-test v0.0.0-20250407181805-b0c912a2d3f4
 )
 
 require (
