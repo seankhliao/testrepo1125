@@ -1,7 +1,9 @@
-go.seankhliao.com/testrepo1125/direct-direct v0.0.0-20250407175510-ead46c0f8fc6 h1:j1KzG0e85Pt/R5qLrspAaNEt0skPhMo+jBnaFZImUHo=
-go.seankhliao.com/testrepo1125/direct-direct v0.0.0-20250407175510-ead46c0f8fc6/go.mod h1:3+W+APMuyeYC/OAzWV3xS6DaK+yEpxUF6ylGD2YphDk=
-go.seankhliao.com/testrepo1125/direct-direct-direct v0.0.0-20250407174926-d11f7d7fea4f h1:WslH5MIl9iDpBMWDyF3+2icxi0PqTFnKRBGQMnFEptY=
-go.seankhliao.com/testrepo1125/direct-direct-direct v0.0.0-20250407174926-d11f7d7fea4f/go.mod h1:OZXXZzLi/IaJKQCJP96x0UA/tSRhvBtMBkrvLq441k4=
+go.seankhliao.com/testrepo1125/direct-direct v0.0.0-20250407181245-dd1a0c81d506 h1:fPsogEY/0YDDv+nZfysEh795pbYUTEIzfRC0Qew0Pas=
+go.seankhliao.com/testrepo1125/direct-direct v0.0.0-20250407181245-dd1a0c81d506/go.mod h1:zsc0GctW6kWf2PBC6am+Rja29SLDVAzxR3towUBgCn0=
+go.seankhliao.com/testrepo1125/direct-direct-direct v0.0.0-20250407181245-dd1a0c81d506 h1:SbK7YLn+9tXv3+LxEGu1zYpQq7dmHys+rASkYrpG5u0=
+go.seankhliao.com/testrepo1125/direct-direct-direct v0.0.0-20250407181245-dd1a0c81d506/go.mod h1:rQS3QYIT/59TQx7DMSyVPaSRTJ3M6rzUSFssqONRlUA=
+go.seankhliao.com/testrepo1125/direct-direct-test v0.0.0-20250407175606-c1dcf0b22350 h1:KyFli05bhAGVBOeORIUmCrlD8eJmVWkFsuDZKf4Brdw=
+go.seankhliao.com/testrepo1125/direct-direct-test v0.0.0-20250407175606-c1dcf0b22350/go.mod h1:nMbIW0YEJ6Eyx0x8tg7yAtCMSr5TWeLfobNeOs9s7zQ=
 go.seankhliao.com/testrepo1125/direct-test v0.0.0-20250407180242-f5f4205186dc h1:SC1G/UWyG0aEXGkbXV/NIt/B4v9yEttpOhj1EpNJsoU=
 go.seankhliao.com/testrepo1125/direct-test v0.0.0-20250407180242-f5f4205186dc/go.mod h1:3XnEH6T0fgEg0rBRVXMjxaluBT/KPaxO6U8szW1WZmI=
 go.seankhliao.com/testrepo1125/direct-test-direct v0.0.0-20250407174926-d11f7d7fea4f h1:edk07KCOb+FnAeODuJ6kK6OtkBTu8VvugiQdupiXQf4=
