@@ -1,5 +1,5 @@
-go.seankhliao.com/testrepo1125/direct-test-direct v0.0.0-20250407174926-d11f7d7fea4f h1:edk07KCOb+FnAeODuJ6kK6OtkBTu8VvugiQdupiXQf4=
-go.seankhliao.com/testrepo1125/direct-test-direct v0.0.0-20250407174926-d11f7d7fea4f/go.mod h1:DXQAhDmJIQZwm1JRto+iQOkuY0JvXw/3wSxHPeL6PUM=
+go.seankhliao.com/testrepo1125/direct-test-direct v0.0.0-20250407180258-e6ffddae4404 h1:XByGUCRqDpD1iQqUDF48kc+qaZxs6pnAw1PER2AqhTM=
+go.seankhliao.com/testrepo1125/direct-test-direct v0.0.0-20250407180258-e6ffddae4404/go.mod h1:Vl+W1k6b8dn9r2KwTeFLC+DJkVqaWlaq3xG2mW6Em/U=
 go.seankhliao.com/testrepo1125/direct-test-test v0.0.0-20250407175606-c1dcf0b22350 h1:JDkF7XV87TlNSRYNJVW2QvkLeUkqep+4vbx/ZCK5c+A=
 go.seankhliao.com/testrepo1125/direct-test-test v0.0.0-20250407175606-c1dcf0b22350/go.mod h1:LJmL5fywjjH2M9O7GQBk9Ek4DaTFOsqMyvlRz/0j1Z8=
 go.seankhliao.com/testrepo1125/direct-test-tool v0.0.0-20250407174926-d11f7d7fea4f h1:fdZGwehuuQWuNO+7wg3+CEqeWqZtbQPYpZJe8xSXtLc=
