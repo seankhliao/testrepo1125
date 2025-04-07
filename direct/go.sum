@@ -2,6 +2,12 @@ go.seankhliao.com/testrepo1125/direct-direct v0.0.0-20250407175510-ead46c0f8fc6 
 go.seankhliao.com/testrepo1125/direct-direct v0.0.0-20250407175510-ead46c0f8fc6/go.mod h1:3+W+APMuyeYC/OAzWV3xS6DaK+yEpxUF6ylGD2YphDk=
 go.seankhliao.com/testrepo1125/direct-direct-direct v0.0.0-20250407174926-d11f7d7fea4f h1:WslH5MIl9iDpBMWDyF3+2icxi0PqTFnKRBGQMnFEptY=
 go.seankhliao.com/testrepo1125/direct-direct-direct v0.0.0-20250407174926-d11f7d7fea4f/go.mod h1:OZXXZzLi/IaJKQCJP96x0UA/tSRhvBtMBkrvLq441k4=
+go.seankhliao.com/testrepo1125/direct-test v0.0.0-20250407180242-f5f4205186dc h1:SC1G/UWyG0aEXGkbXV/NIt/B4v9yEttpOhj1EpNJsoU=
+go.seankhliao.com/testrepo1125/direct-test v0.0.0-20250407180242-f5f4205186dc/go.mod h1:3XnEH6T0fgEg0rBRVXMjxaluBT/KPaxO6U8szW1WZmI=
+go.seankhliao.com/testrepo1125/direct-test-direct v0.0.0-20250407174926-d11f7d7fea4f h1:edk07KCOb+FnAeODuJ6kK6OtkBTu8VvugiQdupiXQf4=
+go.seankhliao.com/testrepo1125/direct-test-direct v0.0.0-20250407174926-d11f7d7fea4f/go.mod h1:DXQAhDmJIQZwm1JRto+iQOkuY0JvXw/3wSxHPeL6PUM=
+go.seankhliao.com/testrepo1125/direct-test-test v0.0.0-20250407175606-c1dcf0b22350 h1:JDkF7XV87TlNSRYNJVW2QvkLeUkqep+4vbx/ZCK5c+A=
+go.seankhliao.com/testrepo1125/direct-test-test v0.0.0-20250407175606-c1dcf0b22350/go.mod h1:LJmL5fywjjH2M9O7GQBk9Ek4DaTFOsqMyvlRz/0j1Z8=
 go.seankhliao.com/testrepo1125/direct-tool v0.0.0-20250407175510-ead46c0f8fc6 h1:FdnWOXdIuqlNIPWlg8b/offBNEUc7C+x5l/qOin7zXo=
 go.seankhliao.com/testrepo1125/direct-tool v0.0.0-20250407175510-ead46c0f8fc6/go.mod h1:3YNjSTs+NW9Km669Q1tebXntvYT5D/fafEgedzPQ5lA=
 go.seankhliao.com/testrepo1125/direct-tool-direct v0.0.0-20250407174926-d11f7d7fea4f h1:7eYQQtT9C6c1QtnJry1CivrPvA2UTgjntnXF0iZC3+8=
